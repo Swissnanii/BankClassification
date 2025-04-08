@@ -4,7 +4,7 @@
 The goal of this project is to determin whether the customer will subscribe to a term deposit or not.
 
 ## Where is the data from?
-The dataset in this project is from the UCI repository **repository link [UCI]https://archive.ics.uci.edu/dataset/222/bank+marketing. The dataset, collected through phone calls, contains important information about individuals who either
+The dataset in this project is from the UCI repository repository link [UCI]https://archive.ics.uci.edu/dataset/222/bank+marketing. The dataset, collected through phone calls, contains important information about individuals who either
 subscribed to a term deposit or declined the offer.
 
 ## Model Performance
